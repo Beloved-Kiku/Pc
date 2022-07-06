@@ -1,0 +1,5 @@
+import Mock from 'mockjs'
+import banner from './banner.json'
+import list from './list.json'
+import like from './like.json'
+import floor from './floor.json'

@@ -1,0 +1,36 @@
+[{
+        "id": "001",
+        "imageUrl": "../image/like/Like/Kiku10.jpg",
+        "value": "叹云兮",
+        "price": "118"
+    },
+    {
+        "id": "002",
+        "imageUrl": "../image/like/Like/Kiku11.jpg",
+        "value": "冬日",
+        "price": "100"
+    },
+    {
+        "id": "003",
+        "imageUrl": "../image/like/Like/kiku6.jpg",
+        "value": "莫离",
+        "price": "100"
+    },
+    {
+        "id": "004",
+        "imageUrl": "../image/like/Like/Kiku7.jpg",
+        "value": "恋爱告急",
+        "price": "100"
+    },
+    {
+        "id": "005",
+        "imageUrl": "../image/like/Like/Kiku8.jpg",
+        "value": "霜飞雪",
+        "price": "1314"
+    }, {
+        "id": "006",
+        "imageUrl": "../image/like/Like/Kiku9.jpg",
+        "value": "红昭愿",
+        "price": "520"
+    }
+]
